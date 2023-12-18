@@ -1,5 +1,5 @@
 <div align="center">
-<!-- Skills Section -->
+
 ## Skills
 
 ![NestJS](https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white)
