@@ -1,4 +1,8 @@
-### Hi there 👋
+- **Backend Development**: Node.js, NestJS, Spring Boot, MyBatis
+- **Database Management**: MySQL, MariaDB, PostgreSQL, MongoDB, Mongoose, TypeORM
+- **Mobile Development**: Android Studio, Kotlin, React Native
+- **Frontend Development**: JavaScript, TypeScript, VanillaJS, JQuery
+- **DevOps and Collaboration Tools**: AWS, Docker, Notion, Slack
 
 <!--
 **Valentine117/Valentine117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
