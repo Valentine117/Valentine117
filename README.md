@@ -1,5 +1,4 @@
-<div align="center">
-
+<div align="center"> 
 ## Skills
 ![NestJS](https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
